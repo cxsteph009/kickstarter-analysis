@@ -1,8 +1,10 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 
-Louise owns Kickstarter, and like other crowdfunding platforms, it allows project creators to add incentives for different pledge amounts. 
-My goal is to help Louise set up her incentives by first determining how much money people have pledged to campaigns historically. Is it $3? $10? Even \$50? 
+Louise owns Kickstarter, a crowdfunding platform that allows project creators to add incentives for different pledge amounts. 
+My goal is to help Louise set up her incentives by first determining how much money people have pledged to campaigns historically. 
+Is it $3? $10? Even \$50? 
+
 Louise would benefit from additional visualization of the data so that she can see the outcomes of all the categories.
 
 Include charts and graphs (visualizations) in this report.
