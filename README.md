@@ -2,7 +2,11 @@
 Performing analysis on Kickstarter data to uncover trends
 
 Louise owns Kickstarter, a crowdfunding platform that allows project creators to add incentives for different pledge amounts. 
-My goal is to help Louise set up her incentives by first determining how much money people have pledged to campaigns historically. 
+My goal is to help Louise gain insights on the performance of various campaigns all over the world. An initial look at the data
+comparing the various campaign categories based their outcome reveals the number of plays is significantly higher than any other 
+category. They are also the most successful campaigns. Some other notable successful campaigns are documentary, hardware, and rock.
+
+Louise also needs help setting up her incentives by first determining how much money people have pledged to campaigns historically. 
 Is it $3? $10? Even \$50? 
 
 Louise would benefit from additional visualization of the data so that she can see the outcomes of all the categories.
