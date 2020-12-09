@@ -14,6 +14,9 @@ We also looked at outcomes based on their launch date to see if there was any co
 success of the campaign. It was noted that there is a sharp spike in successful campaigns in the spring, leading up to summer, before steadily declining during the winter months.
 This would indicate that summer campaigns are more successful than winter campaigns. See chart Outcomes Based on Launch Date.
 
+Another metric that we examined was the length of fundraising campaign and it's correlation to the campaign's success. We were able to 
+gain insight on whether campaign length might be tied to its outcome. 
+
 Kickstarter also allows project creators to add incentives for different pledge amounts.
 Louise needs help setting up her incentives by first determining how much money people have pledged to campaigns historically. 
 Is it $3? $10? Even \$50? 
