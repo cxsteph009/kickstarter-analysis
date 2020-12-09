@@ -17,6 +17,8 @@ This would indicate that summer campaigns are more successful than winter campai
 Another metric that we examined was the length of fundraising campaign and it's correlation to the campaign's success. We were able to 
 gain insight on whether campaign length might be tied to its outcome. 
 
+Since they were the most successful, we decided to look at theatre and plays to get a deeper understanding of the most successful campaigns. 
+
 Kickstarter also allows project creators to add incentives for different pledge amounts.
 Louise needs help setting up her incentives by first determining how much money people have pledged to campaigns historically. 
 Is it $3? $10? Even \$50? 
