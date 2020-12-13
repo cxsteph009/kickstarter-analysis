@@ -19,12 +19,4 @@ gain insight on whether campaign length might be tied to its outcome.
 
 Since they were the most successful, we decided to look at theatre and plays to get a deeper understanding of the most successful campaigns. 
 
-Kickstarter also allows project creators to add incentives for different pledge amounts.
-Louise needs help setting up her incentives by first determining how much money people have pledged to campaigns historically. 
-Is it $3? $10? Even \$50? 
-
-Include charts and graphs (visualizations) in this report.
----Visualizations help communicate the story the data is telling by making it more understandable and coherent. 
-At the end of the report, add any recommendations you have for Louise based on your findings.
-
 Refer to the GitHub Help page (https://docs.github.com/en) for additional information about creating documentation using markdown format.
